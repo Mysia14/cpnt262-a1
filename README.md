@@ -1,7 +1,7 @@
-# cpnt262-a1 - Web Client and Server Programming
+# Web Client and Server Programming - cpnt262-a1 - 
 ## Author: Mysia Santana
 
-### Links:
+### Links to:
 * GitHub page: https://mysia14.github.io/cpnt262-a1/
 * GitHub Repo:
 
